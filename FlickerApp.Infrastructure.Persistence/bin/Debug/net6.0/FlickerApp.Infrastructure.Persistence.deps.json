@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FlickerApp.Infrastructure.Persistence/1.0.0": {
+        "runtime": {
+          "FlickerApp.Infrastructure.Persistence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FlickerApp.Infrastructure.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
