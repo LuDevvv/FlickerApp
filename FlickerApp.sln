@@ -15,11 +15,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentatio
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApp", "WebApp", "{B677BBA1-E98B-443D-8651-109AE7DA1A35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlickerApp.Core.Application", "FlickerApp.Core.Application\FlickerApp.Core.Application.csproj", "{E8FA7CB3-C8BB-4208-9560-15232D68B443}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlickerApp.Core.Application", "FlickerApp.Core.Application\FlickerApp.Core.Application.csproj", "{E8FA7CB3-C8BB-4208-9560-15232D68B443}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlickerApp.Core.Domain", "FlickerApp.Core.Domain\FlickerApp.Core.Domain.csproj", "{8167DE5B-82FD-4F58-8716-9097772A8FDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlickerApp.Core.Domain", "FlickerApp.Core.Domain\FlickerApp.Core.Domain.csproj", "{8167DE5B-82FD-4F58-8716-9097772A8FDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlickerApp.Infrastructure.Persistence", "FlickerApp.Infrastructure.Persistence\FlickerApp.Infrastructure.Persistence.csproj", "{C8DF6A18-3856-4055-90F2-87069933230F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlickerApp.Infrastructure.Persistence", "ClassLibrary\FlickerApp.Infrastructure.Persistence.csproj", "{D5B3C22B-0677-4884-86AD-046DC1F32163}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,10 +39,10 @@ Global
 		{8167DE5B-82FD-4F58-8716-9097772A8FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8167DE5B-82FD-4F58-8716-9097772A8FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8167DE5B-82FD-4F58-8716-9097772A8FDF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C8DF6A18-3856-4055-90F2-87069933230F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C8DF6A18-3856-4055-90F2-87069933230F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C8DF6A18-3856-4055-90F2-87069933230F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C8DF6A18-3856-4055-90F2-87069933230F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B3C22B-0677-4884-86AD-046DC1F32163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B3C22B-0677-4884-86AD-046DC1F32163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B3C22B-0677-4884-86AD-046DC1F32163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B3C22B-0677-4884-86AD-046DC1F32163}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,7 +55,7 @@ Global
 		{B677BBA1-E98B-443D-8651-109AE7DA1A35} = {33055EF8-D9B6-43AC-98B5-7530DF94327C}
 		{E8FA7CB3-C8BB-4208-9560-15232D68B443} = {22C18DE2-269F-46EA-B1D9-8698B075F0E3}
 		{8167DE5B-82FD-4F58-8716-9097772A8FDF} = {22C18DE2-269F-46EA-B1D9-8698B075F0E3}
-		{C8DF6A18-3856-4055-90F2-87069933230F} = {94E22AF1-CACF-4D6F-A963-2A403E68D0A9}
+		{D5B3C22B-0677-4884-86AD-046DC1F32163} = {94E22AF1-CACF-4D6F-A963-2A403E68D0A9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {759CFD9E-A1F0-4104-8416-B6FA0FE0C1FC}

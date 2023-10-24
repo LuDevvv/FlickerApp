@@ -1,3 +1,5 @@
+using FlickerApp.Infrastructure.Persistence;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

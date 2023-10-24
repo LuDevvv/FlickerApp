@@ -1,0 +1,5 @@
+C:\Users\ZHX\Desktop\FlickerApp\FlickerApp\ClassLibrary\obj\Debug\net6.0\FlickerApp.Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\ZHX\Desktop\FlickerApp\FlickerApp\ClassLibrary\obj\Debug\net6.0\FlickerApp.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZHX\Desktop\FlickerApp\FlickerApp\ClassLibrary\obj\Debug\net6.0\FlickerApp.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\ZHX\Desktop\FlickerApp\FlickerApp\ClassLibrary\obj\Debug\net6.0\FlickerApp.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\ZHX\Desktop\FlickerApp\FlickerApp\ClassLibrary\obj\Debug\net6.0\FlickerApp.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
