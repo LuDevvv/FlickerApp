@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zUk6T6xByCu5sqIiKlPZw1Ga0tsUbCCWqTb7AHKP1lQbntjm8it/K5lN0yWHSJoNDtt9tNCY0tts59id13nU5A==",
+  "dgSpecHash": "McefLuH8gKzVL5CofmRUaidL2Pj6TNwZ1EZ0mFNtH5y2kihO9az4FRjjOxdPP3/WZGfZFjsU868gMhqm9SWTMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\FlickerApp.Core.Domain.csproj",
+  "projectFilePath": "C:\\Prueba\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\FlickerApp.Core.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

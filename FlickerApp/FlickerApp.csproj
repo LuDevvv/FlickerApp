@@ -11,6 +11,16 @@
 		<UpToDateCheckBuilt Include="tailwind.config.js" Set="Css" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <PackageReference Include="System.Diagnostics.Tools" Version="4.3.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\ClassLibrary\FlickerApp.Infrastructure.Persistence.csproj" />
+	  <ProjectReference Include="..\FlickerApp.Core.Application\FlickerApp.Core.Application.csproj" />
+	  <ProjectReference Include="..\FlickerApp.Core.Domain\FlickerApp.Core.Domain.csproj" />
+	</ItemGroup>
+
 	<Target Name="Tailwind" BeforeTargets="Build">
 		<Exec Command="npm run css:build" />
 	</Target>
