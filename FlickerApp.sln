@@ -1,0 +1,87 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlickerApp", "FlickerApp\FlickerApp.csproj", "{47D8B25B-CA5F-4A9A-BFC7-24B07B46F1A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{C95A2527-26D5-4707-BCCD-26A707A1522A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{22C18DE2-269F-46EA-B1D9-8698B075F0E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{94E22AF1-CACF-4D6F-A963-2A403E68D0A9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{33055EF8-D9B6-43AC-98B5-7530DF94327C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApp", "WebApp", "{B677BBA1-E98B-443D-8651-109AE7DA1A35}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlickerApp.Core.Application", "FlickerApp.Core.Application\FlickerApp.Core.Application.csproj", "{E8FA7CB3-C8BB-4208-9560-15232D68B443}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlickerApp.Core.Domain", "FlickerApp.Core.Domain\FlickerApp.Core.Domain.csproj", "{8167DE5B-82FD-4F58-8716-9097772A8FDF}"
+EndProject
+<<<<<<< HEAD
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlickerApp.Infrastructure.Persistence", "ClassLibrary\FlickerApp.Infrastructure.Persistence.csproj", "{D5B3C22B-0677-4884-86AD-046DC1F32163}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlickerApp.Infrastructure.Identity", "FlickerApp.Infrastructure.Identity\FlickerApp.Infrastructure.Identity.csproj", "{7F8D0161-0B1E-437E-A1A5-B0833E6ABF7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlickerApp.Infrastructure.Shared", "FlickerApp.Infrastructure.Shared\FlickerApp.Infrastructure.Shared.csproj", "{A36727AD-F8F6-497E-88A4-57CE97ED0DE7}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlickerApp.Infrastructure.Persistence", "ClassLibrary\FlickerApp.Infrastructure.Persistence.csproj", "{D5B3C22B-0677-4884-86AD-046DC1F32163}"
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47D8B25B-CA5F-4A9A-BFC7-24B07B46F1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47D8B25B-CA5F-4A9A-BFC7-24B07B46F1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47D8B25B-CA5F-4A9A-BFC7-24B07B46F1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47D8B25B-CA5F-4A9A-BFC7-24B07B46F1A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8FA7CB3-C8BB-4208-9560-15232D68B443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8FA7CB3-C8BB-4208-9560-15232D68B443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8FA7CB3-C8BB-4208-9560-15232D68B443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8FA7CB3-C8BB-4208-9560-15232D68B443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8167DE5B-82FD-4F58-8716-9097772A8FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8167DE5B-82FD-4F58-8716-9097772A8FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8167DE5B-82FD-4F58-8716-9097772A8FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8167DE5B-82FD-4F58-8716-9097772A8FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B3C22B-0677-4884-86AD-046DC1F32163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B3C22B-0677-4884-86AD-046DC1F32163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B3C22B-0677-4884-86AD-046DC1F32163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B3C22B-0677-4884-86AD-046DC1F32163}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
+		{7F8D0161-0B1E-437E-A1A5-B0833E6ABF7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F8D0161-0B1E-437E-A1A5-B0833E6ABF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F8D0161-0B1E-437E-A1A5-B0833E6ABF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F8D0161-0B1E-437E-A1A5-B0833E6ABF7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A36727AD-F8F6-497E-88A4-57CE97ED0DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36727AD-F8F6-497E-88A4-57CE97ED0DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36727AD-F8F6-497E-88A4-57CE97ED0DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36727AD-F8F6-497E-88A4-57CE97ED0DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{47D8B25B-CA5F-4A9A-BFC7-24B07B46F1A8} = {B677BBA1-E98B-443D-8651-109AE7DA1A35}
+		{22C18DE2-269F-46EA-B1D9-8698B075F0E3} = {C95A2527-26D5-4707-BCCD-26A707A1522A}
+		{94E22AF1-CACF-4D6F-A963-2A403E68D0A9} = {C95A2527-26D5-4707-BCCD-26A707A1522A}
+		{33055EF8-D9B6-43AC-98B5-7530DF94327C} = {C95A2527-26D5-4707-BCCD-26A707A1522A}
+		{B677BBA1-E98B-443D-8651-109AE7DA1A35} = {33055EF8-D9B6-43AC-98B5-7530DF94327C}
+		{E8FA7CB3-C8BB-4208-9560-15232D68B443} = {22C18DE2-269F-46EA-B1D9-8698B075F0E3}
+		{8167DE5B-82FD-4F58-8716-9097772A8FDF} = {22C18DE2-269F-46EA-B1D9-8698B075F0E3}
+		{D5B3C22B-0677-4884-86AD-046DC1F32163} = {94E22AF1-CACF-4D6F-A963-2A403E68D0A9}
+<<<<<<< HEAD
+		{7F8D0161-0B1E-437E-A1A5-B0833E6ABF7B} = {94E22AF1-CACF-4D6F-A963-2A403E68D0A9}
+		{A36727AD-F8F6-497E-88A4-57CE97ED0DE7} = {94E22AF1-CACF-4D6F-A963-2A403E68D0A9}
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {759CFD9E-A1F0-4104-8416-B6FA0FE0C1FC}
+	EndGlobalSection
+EndGlobal

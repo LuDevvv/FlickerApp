@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlickerApp", "FlickerApp.csproj", "{AC169186-0DCE-4838-BD97-97339D6020A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC169186-0DCE-4838-BD97-97339D6020A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC169186-0DCE-4838-BD97-97339D6020A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC169186-0DCE-4838-BD97-97339D6020A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC169186-0DCE-4838-BD97-97339D6020A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F58098DE-A9D3-4032-A4CA-835E8E73320D}
+	EndGlobalSection
+EndGlobal

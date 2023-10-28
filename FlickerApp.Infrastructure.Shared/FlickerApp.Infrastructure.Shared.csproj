@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary\FlickerApp.Infrastructure.Persistence.csproj" />
+    <ProjectReference Include="..\FlickerApp.Core.Application\FlickerApp.Core.Application.csproj" />
+    <ProjectReference Include="..\FlickerApp.Core.Domain\FlickerApp.Core.Domain.csproj" />
+    <ProjectReference Include="..\FlickerApp.Infrastructure.Identity\FlickerApp.Infrastructure.Identity.csproj" />
+    <ProjectReference Include="..\FlickerApp\FlickerApp.csproj" />
+  </ItemGroup>
+
+</Project>

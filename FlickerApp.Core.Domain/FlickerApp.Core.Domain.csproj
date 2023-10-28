@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+<<<<<<< HEAD
+=======
+  <ItemGroup>
+    <Folder Include="Common\" />
+    <Folder Include="Settings\" />
+  </ItemGroup>
+
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+</Project>
