@@ -14,7 +14,11 @@
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore\7.0.13\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore\7.0.13\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props')" />
+=======
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore\7.0.12\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore\7.0.12\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props')" />
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
     <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore\7.0.12\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore\7.0.12\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props')" />
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34

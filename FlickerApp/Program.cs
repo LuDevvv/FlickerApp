@@ -1,5 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 using FlickerApp.Core.Application;
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 using FlickerApp.Infrastructure.Persistence;
@@ -8,8 +11,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+<<<<<<< HEAD
 builder.Services.AddApplicationLayer(builder.Configuration);
 builder.Services.AddPersistenceInfrastructure(builder.Configuration);
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 
 var app = builder.Build();
 
@@ -32,4 +38,8 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
+<<<<<<< HEAD
 app.Run();
+=======
+app.Run();
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34

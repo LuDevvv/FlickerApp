@@ -7,11 +7,17 @@
   </PropertyGroup>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
   <ItemGroup>
     <Folder Include="Common\" />
     <Folder Include="Settings\" />
   </ItemGroup>
 
+<<<<<<< HEAD
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 </Project>

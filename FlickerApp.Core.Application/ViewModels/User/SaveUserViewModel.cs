@@ -11,6 +11,7 @@ namespace FlickerApp.Core.Application.ViewModels.User
     {
         public int UserId { get; set; }
 <<<<<<< HEAD
+<<<<<<< HEAD
 
         [Display(Name = "First Name")]
         [Required(ErrorMessage = "First Name is required.")]
@@ -45,6 +46,8 @@ namespace FlickerApp.Core.Application.ViewModels.User
 
         [Display(Name = "Is Active")]
 =======
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Phone { get; set; }
@@ -52,6 +55,9 @@ namespace FlickerApp.Core.Application.ViewModels.User
         public string Email { get; set; }
         public string UserName { get; set; }
         public string Password { get; set; }
+<<<<<<< HEAD
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
         public bool IsActive { get; set; }
     }

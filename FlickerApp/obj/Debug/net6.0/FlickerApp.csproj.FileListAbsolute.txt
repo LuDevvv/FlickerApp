@@ -7,6 +7,7 @@ C:\Users\ZHX\Desktop\FlickerApp\FlickerApp\FlickerApp\obj\Debug\net6.0\FlickerAp
 C:\Users\ZHX\Desktop\FlickerApp\FlickerApp\FlickerApp\obj\Debug\net6.0\FlickerApp.RazorAssemblyInfo.cache
 C:\Users\ZHX\Desktop\FlickerApp\FlickerApp\FlickerApp\obj\Debug\net6.0\FlickerApp.RazorAssemblyInfo.cs
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\Prueba\FlickerApp\FlickerApp\FlickerApp\bin\Debug\net6.0\appsettings.Development.json
 C:\Prueba\FlickerApp\FlickerApp\FlickerApp\bin\Debug\net6.0\appsettings.json
 C:\Prueba\FlickerApp\FlickerApp\FlickerApp\bin\Debug\net6.0\package-lock.json
@@ -95,5 +96,7 @@ C:\Prueba\FlickerApp\FlickerApp\FlickerApp\obj\Debug\net6.0\refint\FlickerApp.dl
 C:\Prueba\FlickerApp\FlickerApp\FlickerApp\obj\Debug\net6.0\FlickerApp.pdb
 C:\Prueba\FlickerApp\FlickerApp\FlickerApp\obj\Debug\net6.0\FlickerApp.genruntimeconfig.cache
 C:\Prueba\FlickerApp\FlickerApp\FlickerApp\obj\Debug\net6.0\ref\FlickerApp.dll
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34

@@ -1,14 +1,20 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿using FlickerApp.Core.Application.ViewModels.Friend;
 using FlickerApp.Core.Application.ViewModels.Publication;
 using System.ComponentModel.DataAnnotations;
 =======
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+<<<<<<< HEAD
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 
 namespace FlickerApp.Core.Application.ViewModels.User
@@ -16,6 +22,7 @@ namespace FlickerApp.Core.Application.ViewModels.User
     public class UserViewModel
     {
         public int UserId { get; set; }
+<<<<<<< HEAD
 <<<<<<< HEAD
 
         [Display(Name = "Full Name")]
@@ -45,6 +52,8 @@ namespace FlickerApp.Core.Application.ViewModels.User
 
         public List<FriendViewModel> Friends { get; set; }
 =======
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Phone { get; set; }
@@ -53,6 +62,9 @@ namespace FlickerApp.Core.Application.ViewModels.User
         public string UserName { get; set; }
         public string Password { get; set; }
         public bool IsActive { get; set; }
+<<<<<<< HEAD
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
     }
 }

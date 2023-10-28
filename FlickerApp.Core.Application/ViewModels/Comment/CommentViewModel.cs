@@ -12,6 +12,7 @@ namespace FlickerApp.Core.Application.ViewModels.Comment
         public int CommentId { get; set; }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
         [Display(Name = "Content")]
         public string Content { get; set; }
 
@@ -23,6 +24,8 @@ namespace FlickerApp.Core.Application.ViewModels.Comment
 
         [Display(Name = "User ID")]
 =======
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
         [Required(ErrorMessage = "Content is required.")]
         public string Content { get; set; }
 
@@ -30,6 +33,9 @@ namespace FlickerApp.Core.Application.ViewModels.Comment
         public DateTime CreatedDate { get; set; }
 
         public int PublicationId { get; set; }
+<<<<<<< HEAD
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
         public int UserId { get; set; }
     }

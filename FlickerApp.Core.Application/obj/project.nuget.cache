@@ -1,6 +1,7 @@
 {
   "version": 2,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "odFEhevaOYHcGfp2hqEYuK0umDUEZX5dSLZw3dj2TaT+fLwZ88Uhcc5IllyoWuhFq6xrxtkwS0rYPh2iKRSjFg==",
   "success": true,
   "projectFilePath": "C:\\Prueba\\FlickerApp\\FlickerApp\\FlickerApp.Core.Application\\FlickerApp.Core.Application.csproj",
@@ -8,10 +9,15 @@
     "C:\\Users\\ZHX\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ZHX\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
 =======
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
   "dgSpecHash": "bcOpLmq/YhfiRjHyW3WvzjIlz/YFoZ9DddPRLHJ1zX6Q5TjZ86oS0iFN/huDKlMHTogjcMM9wfSp3ZkOvonciA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp.Core.Application\\FlickerApp.Core.Application.csproj",
   "expectedPackageFiles": [
+<<<<<<< HEAD
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
     "C:\\Users\\ZHX\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.12\\microsoft.entityframeworkcore.7.0.12.nupkg.sha512",
     "C:\\Users\\ZHX\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.12\\microsoft.entityframeworkcore.abstractions.7.0.12.nupkg.sha512",

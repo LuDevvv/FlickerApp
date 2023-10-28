@@ -20,11 +20,15 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlickerApp.Core.Domain", "FlickerApp.Core.Domain\FlickerApp.Core.Domain.csproj", "{8167DE5B-82FD-4F58-8716-9097772A8FDF}"
 EndProject
 <<<<<<< HEAD
+<<<<<<< HEAD
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlickerApp.Infrastructure.Persistence", "ClassLibrary\FlickerApp.Infrastructure.Persistence.csproj", "{D5B3C22B-0677-4884-86AD-046DC1F32163}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlickerApp.Infrastructure.Identity", "FlickerApp.Infrastructure.Identity\FlickerApp.Infrastructure.Identity.csproj", "{7F8D0161-0B1E-437E-A1A5-B0833E6ABF7B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlickerApp.Infrastructure.Shared", "FlickerApp.Infrastructure.Shared\FlickerApp.Infrastructure.Shared.csproj", "{A36727AD-F8F6-497E-88A4-57CE97ED0DE7}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlickerApp.Infrastructure.Persistence", "ClassLibrary\FlickerApp.Infrastructure.Persistence.csproj", "{D5B3C22B-0677-4884-86AD-046DC1F32163}"
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlickerApp.Infrastructure.Persistence", "ClassLibrary\FlickerApp.Infrastructure.Persistence.csproj", "{D5B3C22B-0677-4884-86AD-046DC1F32163}"
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
@@ -52,6 +56,7 @@ Global
 		{D5B3C22B-0677-4884-86AD-046DC1F32163}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5B3C22B-0677-4884-86AD-046DC1F32163}.Release|Any CPU.Build.0 = Release|Any CPU
 <<<<<<< HEAD
+<<<<<<< HEAD
 		{7F8D0161-0B1E-437E-A1A5-B0833E6ABF7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7F8D0161-0B1E-437E-A1A5-B0833E6ABF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F8D0161-0B1E-437E-A1A5-B0833E6ABF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -60,6 +65,8 @@ Global
 		{A36727AD-F8F6-497E-88A4-57CE97ED0DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A36727AD-F8F6-497E-88A4-57CE97ED0DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A36727AD-F8F6-497E-88A4-57CE97ED0DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 	EndGlobalSection
@@ -76,8 +83,11 @@ Global
 		{8167DE5B-82FD-4F58-8716-9097772A8FDF} = {22C18DE2-269F-46EA-B1D9-8698B075F0E3}
 		{D5B3C22B-0677-4884-86AD-046DC1F32163} = {94E22AF1-CACF-4D6F-A963-2A403E68D0A9}
 <<<<<<< HEAD
+<<<<<<< HEAD
 		{7F8D0161-0B1E-437E-A1A5-B0833E6ABF7B} = {94E22AF1-CACF-4D6F-A963-2A403E68D0A9}
 		{A36727AD-F8F6-497E-88A4-57CE97ED0DE7} = {94E22AF1-CACF-4D6F-A963-2A403E68D0A9}
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 	EndGlobalSection

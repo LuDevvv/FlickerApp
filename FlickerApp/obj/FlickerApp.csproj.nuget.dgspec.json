@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Prueba\\FlickerApp\\FlickerApp\\FlickerApp\\FlickerApp.csproj": {}
   },
   "projects": {
@@ -14,6 +15,11 @@
         "packagesPath": "C:\\Users\\ZHX\\.nuget\\packages\\",
         "outputPath": "C:\\Prueba\\FlickerApp\\FlickerApp\\ClassLibrary\\obj\\",
 =======
+=======
+    "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp\\FlickerApp.csproj": {}
+  },
+  "projects": {
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
     "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\ClassLibrary\\FlickerApp.Infrastructure.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -22,6 +28,9 @@
         "projectPath": "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\ClassLibrary\\FlickerApp.Infrastructure.Persistence.csproj",
         "packagesPath": "C:\\Users\\ZHX\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\ClassLibrary\\obj\\",
+<<<<<<< HEAD
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
         "projectStyle": "PackageReference",
         "configFilePaths": [
@@ -40,17 +49,23 @@
             "targetAlias": "net6.0",
             "projectReferences": {
 <<<<<<< HEAD
+<<<<<<< HEAD
               "C:\\Prueba\\FlickerApp\\FlickerApp\\FlickerApp.Core.Application\\FlickerApp.Core.Application.csproj": {
                 "projectPath": "C:\\Prueba\\FlickerApp\\FlickerApp\\FlickerApp.Core.Application\\FlickerApp.Core.Application.csproj"
               },
               "C:\\Prueba\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\FlickerApp.Core.Domain.csproj": {
                 "projectPath": "C:\\Prueba\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\FlickerApp.Core.Domain.csproj"
 =======
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
               "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp.Core.Application\\FlickerApp.Core.Application.csproj": {
                 "projectPath": "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp.Core.Application\\FlickerApp.Core.Application.csproj"
               },
               "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\FlickerApp.Core.Domain.csproj": {
                 "projectPath": "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\FlickerApp.Core.Domain.csproj"
+<<<<<<< HEAD
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
               }
             }
@@ -73,10 +88,13 @@
               "version": "[7.0.12, )"
             },
 <<<<<<< HEAD
+<<<<<<< HEAD
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.13, )"
             },
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
             "Microsoft.EntityFrameworkCore.Tools": {
@@ -107,6 +125,7 @@
       }
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Prueba\\FlickerApp\\FlickerApp\\FlickerApp.Core.Application\\FlickerApp.Core.Application.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -116,6 +135,8 @@
         "packagesPath": "C:\\Users\\ZHX\\.nuget\\packages\\",
         "outputPath": "C:\\Prueba\\FlickerApp\\FlickerApp\\FlickerApp.Core.Application\\obj\\",
 =======
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
     "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp.Core.Application\\FlickerApp.Core.Application.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -124,6 +145,9 @@
         "projectPath": "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp.Core.Application\\FlickerApp.Core.Application.csproj",
         "packagesPath": "C:\\Users\\ZHX\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp.Core.Application\\obj\\",
+<<<<<<< HEAD
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
         "projectStyle": "PackageReference",
         "configFilePaths": [
@@ -142,8 +166,13 @@
             "targetAlias": "net6.0",
             "projectReferences": {
 <<<<<<< HEAD
+<<<<<<< HEAD
               "C:\\Prueba\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\FlickerApp.Core.Domain.csproj": {
                 "projectPath": "C:\\Prueba\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\FlickerApp.Core.Domain.csproj"
+=======
+              "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\FlickerApp.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\FlickerApp.Core.Domain.csproj"
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
               "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\FlickerApp.Core.Domain.csproj": {
                 "projectPath": "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\FlickerApp.Core.Domain.csproj"
@@ -163,10 +192,13 @@
           "targetAlias": "net6.0",
           "dependencies": {
 <<<<<<< HEAD
+<<<<<<< HEAD
             "AutoMapper": {
               "target": "Package",
               "version": "[12.0.1, )"
             },
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
             "Microsoft.EntityFrameworkCore": {
@@ -203,6 +235,7 @@
       }
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Prueba\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\FlickerApp.Core.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -212,6 +245,8 @@
         "packagesPath": "C:\\Users\\ZHX\\.nuget\\packages\\",
         "outputPath": "C:\\Prueba\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\obj\\",
 =======
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
     "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\FlickerApp.Core.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -220,6 +255,9 @@
         "projectPath": "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\FlickerApp.Core.Domain.csproj",
         "packagesPath": "C:\\Users\\ZHX\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\obj\\",
+<<<<<<< HEAD
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
         "projectStyle": "PackageReference",
         "configFilePaths": [
@@ -269,6 +307,7 @@
       }
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Prueba\\FlickerApp\\FlickerApp\\FlickerApp\\FlickerApp.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -278,6 +317,8 @@
         "packagesPath": "C:\\Users\\ZHX\\.nuget\\packages\\",
         "outputPath": "C:\\Prueba\\FlickerApp\\FlickerApp\\FlickerApp\\obj\\",
 =======
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
     "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp\\FlickerApp.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -286,6 +327,9 @@
         "projectPath": "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp\\FlickerApp.csproj",
         "packagesPath": "C:\\Users\\ZHX\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp\\obj\\",
+<<<<<<< HEAD
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
         "projectStyle": "PackageReference",
         "configFilePaths": [
@@ -304,6 +348,7 @@
             "targetAlias": "net6.0",
             "projectReferences": {
 <<<<<<< HEAD
+<<<<<<< HEAD
               "C:\\Prueba\\FlickerApp\\FlickerApp\\ClassLibrary\\FlickerApp.Infrastructure.Persistence.csproj": {
                 "projectPath": "C:\\Prueba\\FlickerApp\\FlickerApp\\ClassLibrary\\FlickerApp.Infrastructure.Persistence.csproj"
               },
@@ -313,6 +358,8 @@
               "C:\\Prueba\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\FlickerApp.Core.Domain.csproj": {
                 "projectPath": "C:\\Prueba\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\FlickerApp.Core.Domain.csproj"
 =======
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
               "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\ClassLibrary\\FlickerApp.Infrastructure.Persistence.csproj": {
                 "projectPath": "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\ClassLibrary\\FlickerApp.Infrastructure.Persistence.csproj"
               },
@@ -321,6 +368,9 @@
               },
               "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\FlickerApp.Core.Domain.csproj": {
                 "projectPath": "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\FlickerApp.Core.Domain.csproj"
+<<<<<<< HEAD
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
               }
             }

@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿using FlickerApp.Core.Domain.Common;
 using System;
+=======
+﻿using System;
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
 ﻿using System;
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
@@ -12,7 +16,11 @@ using System.Threading.Tasks;
 namespace FlickerApp.Core.Domain.Entities
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
     public class Friend : AuditableBaseEntity
+=======
+    public class Friend
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
     public class Friend
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34

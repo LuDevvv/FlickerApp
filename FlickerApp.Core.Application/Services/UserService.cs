@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿using AutoMapper;
 using FlickerApp.Core.Application.Interfaces.Repositories;
+=======
+﻿using FlickerApp.Core.Application.Interfaces.Repositories;
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
 ﻿using FlickerApp.Core.Application.Interfaces.Repositories;
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
@@ -9,6 +13,10 @@ using FlickerApp.Core.Application.ViewModels.User;
 using FlickerApp.Core.Domain.Entities;
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
 
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
@@ -18,6 +26,7 @@ namespace FlickerApp.Core.Application.Services
     {
         private readonly IUserRepository _userRepository;
 <<<<<<< HEAD
+<<<<<<< HEAD
         private readonly IMapper _mapper;
 
         public UserService(IUserRepository userRepository, IMapper mapper)
@@ -25,17 +34,26 @@ namespace FlickerApp.Core.Application.Services
             _userRepository = userRepository;
             _mapper = mapper;
 =======
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 
         public UserService(IUserRepository userRepository)
         {
             _userRepository = userRepository;
+<<<<<<< HEAD
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
         }
 
         public async Task Update(SaveUserViewModel viewModel)
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
             User user = _mapper.Map<User>(viewModel);
+=======
+            User user = MapSaveUserViewModelToUser(viewModel);
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
             User user = MapSaveUserViewModelToUser(viewModel);
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
@@ -45,7 +63,11 @@ namespace FlickerApp.Core.Application.Services
         public async Task Add(SaveUserViewModel viewModel)
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
             User user = _mapper.Map<User>(viewModel);
+=======
+            User user = MapSaveUserViewModelToUser(viewModel);
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
             User user = MapSaveUserViewModelToUser(viewModel);
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
@@ -68,7 +90,11 @@ namespace FlickerApp.Core.Application.Services
             if (user != null)
             {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 return _mapper.Map<SaveUserViewModel>(user);
+=======
+                return MapUserToSaveUserViewModel(user);
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
                 return MapUserToSaveUserViewModel(user);
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
@@ -80,7 +106,11 @@ namespace FlickerApp.Core.Application.Services
         {
             var user = await _userRepository.GetUserByUsernameAsync(username);
 <<<<<<< HEAD
+<<<<<<< HEAD
             return _mapper.Map<UserViewModel>(user);
+=======
+            return MapUserToUserViewModel(user);
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
             return MapUserToUserViewModel(user);
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
@@ -90,7 +120,11 @@ namespace FlickerApp.Core.Application.Services
         {
             var user = await _userRepository.ActivateUserAsync(userId);
 <<<<<<< HEAD
+<<<<<<< HEAD
             return _mapper.Map<UserViewModel>(user);
+=======
+            return MapUserToUserViewModel(user);
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
             return MapUserToUserViewModel(user);
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
@@ -100,7 +134,11 @@ namespace FlickerApp.Core.Application.Services
         {
             var friends = await _userRepository.GetFriendsOfUserAsync(userId);
 <<<<<<< HEAD
+<<<<<<< HEAD
             return _mapper.Map<List<UserViewModel>>(friends);
+=======
+            return friends.Select(MapUserToUserViewModel).ToList();
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
             return friends.Select(MapUserToUserViewModel).ToList();
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
@@ -110,8 +148,11 @@ namespace FlickerApp.Core.Application.Services
         {
             var users = await _userRepository.GetAllAsync();
 <<<<<<< HEAD
+<<<<<<< HEAD
             return _mapper.Map<List<UserViewModel>>(users);
 =======
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
             return users.Select(MapUserToUserViewModel).ToList();
         }
 
@@ -160,6 +201,9 @@ namespace FlickerApp.Core.Application.Services
                 Password = viewModel.Password,
                 IsActive = viewModel.IsActive
             };
+<<<<<<< HEAD
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
         }
     }

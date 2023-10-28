@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿using FlickerApp.Core.Domain.Common;
 using System;
+=======
+﻿using System;
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
 ﻿using System;
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
@@ -12,17 +16,23 @@ using System.Threading.Tasks;
 namespace FlickerApp.Core.Domain.Entities
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
     public class Comment : AuditableBaseEntity
     {
         public int CommentId { get; set; }
         public string Content { get; set; }
         public DateTime CreatedDate { get; set; }
 =======
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
     public class Comment
     {
         public int CommentId { get; set; }
         public string Content { get; set; }
         public DateTime CreatedDate  { get; set; }
+<<<<<<< HEAD
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 
         // Foreign keys

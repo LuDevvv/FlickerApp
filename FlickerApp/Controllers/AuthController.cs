@@ -8,6 +8,7 @@ namespace FlickerApp.Controllers
         public ActionResult Login()
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
             return View();
         }
 
@@ -15,6 +16,8 @@ namespace FlickerApp.Controllers
         public ActionResult Login(string user, string password)
         {
 =======
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
             bool isUserAuthenticated = false; 
 
             if (!isUserAuthenticated)
@@ -22,6 +25,9 @@ namespace FlickerApp.Controllers
                 return RedirectToAction("Login", "Auth");
             }
 
+<<<<<<< HEAD
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
             return View();
         }
@@ -31,6 +37,7 @@ namespace FlickerApp.Controllers
             return View();
         }
 <<<<<<< HEAD
+<<<<<<< HEAD
 
         public ActionResult Restorepassword() 
         {
@@ -38,6 +45,8 @@ namespace FlickerApp.Controllers
         }
 
         //public ActionResult Logout() { }
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
     }

@@ -10,6 +10,7 @@ namespace FlickerApp.Core.Application.ViewModels.Friend
     public class SaveFriendViewModel
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         public int FriendId { get; set; }
 
         [Required(ErrorMessage = "The User ID field is required.")]
@@ -21,11 +22,16 @@ namespace FlickerApp.Core.Application.ViewModels.Friend
         public int FriendUserId { get; set; }
 
 =======
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
         [Required(ErrorMessage = "User Id is required.")]
         public int UserId { get; set; }
 
         [Required(ErrorMessage = "Friend User Id is required.")]
         public int FriendUserId { get; set; }
+<<<<<<< HEAD
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
     }
 }

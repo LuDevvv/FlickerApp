@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Prueba\\FlickerApp\\FlickerApp\\FlickerApp.Core.Application\\FlickerApp.Core.Application.csproj": {}
   },
   "projects": {
@@ -89,6 +90,19 @@
         "projectPath": "C:\\Prueba\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\FlickerApp.Core.Domain.csproj",
         "packagesPath": "C:\\Users\\ZHX\\.nuget\\packages\\",
         "outputPath": "C:\\Prueba\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\obj\\",
+=======
+    "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp.Core.Application\\FlickerApp.Core.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp.Core.Application\\FlickerApp.Core.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp.Core.Application\\FlickerApp.Core.Application.csproj",
+        "projectName": "FlickerApp.Core.Application",
+        "projectPath": "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp.Core.Application\\FlickerApp.Core.Application.csproj",
+        "packagesPath": "C:\\Users\\ZHX\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp.Core.Application\\obj\\",
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ZHX\\AppData\\Roaming\\NuGet\\NuGet.Config",

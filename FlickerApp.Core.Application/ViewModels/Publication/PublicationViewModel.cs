@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿using FlickerApp.Core.Application.ViewModels.Comment;
 using System;
+=======
+﻿using System;
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
 ﻿using System;
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
@@ -10,7 +14,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 <<<<<<< HEAD
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
 
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
@@ -20,6 +28,7 @@ namespace FlickerApp.Core.Application.ViewModels.Publication
     {
         public int PublicationId { get; set; }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
         [Display(Name = "Content")]
         public string Content { get; set; }
@@ -35,6 +44,8 @@ namespace FlickerApp.Core.Application.ViewModels.Publication
 
         public List<CommentViewModel> Comments { get; set; }
 =======
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
         [Required(ErrorMessage = "Content is required.")]
         public string Content { get; set; }
 
@@ -42,6 +53,9 @@ namespace FlickerApp.Core.Application.ViewModels.Publication
         public DateTime CreatedDate { get; set; }
         public string Photo { get; set; }
         public int UserId { get; set; }
+<<<<<<< HEAD
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
     }
 }

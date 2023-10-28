@@ -13,6 +13,7 @@ C:\Users\ZHX\Desktop\FlickerApp\FlickerApp\FlickerApp.Core.Application\obj\Debug
 C:\Users\ZHX\Desktop\FlickerApp\FlickerApp\FlickerApp.Core.Application\obj\Debug\net6.0\refint\FlickerApp.Core.Application.dll
 C:\Users\ZHX\Desktop\FlickerApp\FlickerApp\FlickerApp.Core.Application\obj\Debug\net6.0\FlickerApp.Core.Application.pdb
 C:\Users\ZHX\Desktop\FlickerApp\FlickerApp\FlickerApp.Core.Application\obj\Debug\net6.0\ref\FlickerApp.Core.Application.dll
+<<<<<<< HEAD
 C:\Prueba\FlickerApp\FlickerApp\FlickerApp.Core.Application\obj\Debug\net6.0\FlickerApp.Core.Application.csproj.AssemblyReference.cache
 C:\Prueba\FlickerApp\FlickerApp\FlickerApp.Core.Application\obj\Debug\net6.0\FlickerApp.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Prueba\FlickerApp\FlickerApp\FlickerApp.Core.Application\obj\Debug\net6.0\FlickerApp.Core.Application.AssemblyInfoInputs.cache
@@ -28,3 +29,5 @@ C:\Prueba\FlickerApp\FlickerApp\FlickerApp.Core.Application\obj\Debug\net6.0\Fli
 C:\Prueba\FlickerApp\FlickerApp\FlickerApp.Core.Application\obj\Debug\net6.0\refint\FlickerApp.Core.Application.dll
 C:\Prueba\FlickerApp\FlickerApp\FlickerApp.Core.Application\obj\Debug\net6.0\FlickerApp.Core.Application.pdb
 C:\Prueba\FlickerApp\FlickerApp\FlickerApp.Core.Application\obj\Debug\net6.0\ref\FlickerApp.Core.Application.dll
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34

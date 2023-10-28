@@ -1,7 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 <<<<<<< HEAD
+<<<<<<< HEAD
 using System.ComponentModel.DataAnnotations;
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 using System.Linq;
@@ -14,6 +17,7 @@ namespace FlickerApp.Core.Application.ViewModels.Friend
     {
         public int FriendId { get; set; }
 <<<<<<< HEAD
+<<<<<<< HEAD
 
         [Display(Name = "Full Friend Name")]
         public string FullFriendName { get; set; }
@@ -24,6 +28,10 @@ namespace FlickerApp.Core.Application.ViewModels.Friend
         [Display(Name = "Friend User ID")]
         public int FriendUserId { get; set; }
 
+=======
+        public int UserId { get; set; }
+        public int FriendUserId { get; set; }
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
         public int UserId { get; set; }
         public int FriendUserId { get; set; }

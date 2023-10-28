@@ -1,5 +1,10 @@
 ﻿using FlickerApp.Core.Application.ViewModels.User;
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+using System.Collections.Generic;
+using System.Threading.Tasks;
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
 using System.Collections.Generic;
 using System.Threading.Tasks;

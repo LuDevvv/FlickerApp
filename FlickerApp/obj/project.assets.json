@@ -3,6 +3,7 @@
   "targets": {
     "net6.0": {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "AutoMapper/12.0.1": {
         "type": "package",
         "dependencies": {
@@ -148,11 +149,16 @@
           "Microsoft.EntityFrameworkCore.Abstractions": "7.0.13",
           "Microsoft.EntityFrameworkCore.Analyzers": "7.0.13",
 =======
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
       "Microsoft.EntityFrameworkCore/7.0.12": {
         "type": "package",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Abstractions": "7.0.12",
           "Microsoft.EntityFrameworkCore.Analyzers": "7.0.12",
+<<<<<<< HEAD
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
           "Microsoft.Extensions.Caching.Memory": "7.0.0",
           "Microsoft.Extensions.DependencyInjection": "7.0.0",
@@ -173,7 +179,11 @@
         }
       },
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Microsoft.EntityFrameworkCore.Abstractions/7.0.13": {
+=======
+      "Microsoft.EntityFrameworkCore.Abstractions/7.0.12": {
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
       "Microsoft.EntityFrameworkCore.Abstractions/7.0.12": {
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
@@ -190,7 +200,11 @@
         }
       },
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Microsoft.EntityFrameworkCore.Analyzers/7.0.13": {
+=======
+      "Microsoft.EntityFrameworkCore.Analyzers/7.0.12": {
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
       "Microsoft.EntityFrameworkCore.Analyzers/7.0.12": {
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
@@ -218,6 +232,7 @@
           }
         }
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Microsoft.EntityFrameworkCore.Relational/7.0.13": {
         "type": "package",
@@ -253,6 +268,8 @@
           }
         }
       },
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
       "Microsoft.Extensions.Caching.Abstractions/7.0.0": {
@@ -471,6 +488,7 @@
         }
       },
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Microsoft.Identity.Client/4.47.2": {
         "type": "package",
         "dependencies": {
@@ -605,6 +623,8 @@
       },
 =======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
       "Microsoft.NETCore.Platforms/1.1.0": {
         "type": "package",
         "compile": {
@@ -623,6 +643,7 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Microsoft.SqlServer.Server/1.0.0": {
         "type": "package",
@@ -700,6 +721,8 @@
       },
 =======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
       "System.Diagnostics.Tools/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -713,6 +736,7 @@
           }
         }
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       "System.Drawing.Common/6.0.0": {
         "type": "package",
@@ -810,6 +834,8 @@
       },
 =======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
       "System.Runtime/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -822,6 +848,7 @@
           }
         }
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       "System.Runtime.Caching/6.0.0": {
         "type": "package",
@@ -850,6 +877,8 @@
       },
 =======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {
         "type": "package",
         "compile": {
@@ -866,6 +895,7 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
+<<<<<<< HEAD
 <<<<<<< HEAD
       "System.Security.AccessControl/6.0.0": {
         "type": "package",
@@ -1085,12 +1115,17 @@
       },
 =======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
       "FlickerApp.Core.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "AutoMapper": "12.0.1",
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
           "FlickerApp.Core.Domain": "1.0.0",
@@ -1121,8 +1156,12 @@
         "dependencies": {
           "FlickerApp.Core.Application": "1.0.0",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "FlickerApp.Core.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.13"
+=======
+          "FlickerApp.Core.Domain": "1.0.0"
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
           "FlickerApp.Core.Domain": "1.0.0"
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
@@ -1137,6 +1176,7 @@
     }
   },
   "libraries": {
+<<<<<<< HEAD
 <<<<<<< HEAD
     "AutoMapper/12.0.1": {
       "sha512": "hvV62vl6Hp/WfQ24yzo3Co9+OPl8wH8hApwVtgWpiAynVJkUcs7xvehnSftawL8Pe8FrPffBRM3hwzLQqWDNjA==",
@@ -1367,10 +1407,15 @@
       "type": "package",
       "path": "microsoft.entityframeworkcore/7.0.13",
 =======
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
     "Microsoft.EntityFrameworkCore/7.0.12": {
       "sha512": "HRge/bJ5SKMNeqybC4NnRwWZn69QBjVVoVmwhmJ8xgQ50Ye+jTOOf2mef/y4Lrq1HUeMg8cu+3JeFdnp+Y8skA==",
       "type": "package",
       "path": "microsoft.entityframeworkcore/7.0.12",
+<<<<<<< HEAD
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
       "files": [
         ".nupkg.metadata",
@@ -1379,6 +1424,7 @@
         "buildTransitive/net6.0/Microsoft.EntityFrameworkCore.props",
         "lib/net6.0/Microsoft.EntityFrameworkCore.dll",
         "lib/net6.0/Microsoft.EntityFrameworkCore.xml",
+<<<<<<< HEAD
 <<<<<<< HEAD
         "microsoft.entityframeworkcore.7.0.13.nupkg.sha512",
         "microsoft.entityframeworkcore.nuspec"
@@ -1389,6 +1435,8 @@
       "type": "package",
       "path": "microsoft.entityframeworkcore.abstractions/7.0.13",
 =======
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
         "microsoft.entityframeworkcore.7.0.12.nupkg.sha512",
         "microsoft.entityframeworkcore.nuspec"
       ]
@@ -1397,6 +1445,9 @@
       "sha512": "GDlY3DzUbpagqb0683NUM2RK9eJFjTfmlLJd5YtvzBf8T4dwanIOSjd2vN7dXJihyZ0JlYaCetyHgxzbrxiUOw==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.abstractions/7.0.12",
+<<<<<<< HEAD
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
       "files": [
         ".nupkg.metadata",
@@ -1404,6 +1455,7 @@
         "Icon.png",
         "lib/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll",
         "lib/net6.0/Microsoft.EntityFrameworkCore.Abstractions.xml",
+<<<<<<< HEAD
 <<<<<<< HEAD
         "microsoft.entityframeworkcore.abstractions.7.0.13.nupkg.sha512",
         "microsoft.entityframeworkcore.abstractions.nuspec"
@@ -1414,6 +1466,8 @@
       "type": "package",
       "path": "microsoft.entityframeworkcore.analyzers/7.0.13",
 =======
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
         "microsoft.entityframeworkcore.abstractions.7.0.12.nupkg.sha512",
         "microsoft.entityframeworkcore.abstractions.nuspec"
       ]
@@ -1422,6 +1476,9 @@
       "sha512": "feFe61uKUNoHJfo9tnO65BTzcpWEYIr34xWikhYgZl5c9RiiUJLuCoTqoGc9fuuKy+xk9aUa1NwgDGMC4KmBig==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.analyzers/7.0.12",
+<<<<<<< HEAD
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
       "files": [
         ".nupkg.metadata",
@@ -1430,7 +1487,11 @@
         "analyzers/dotnet/cs/Microsoft.EntityFrameworkCore.Analyzers.dll",
         "lib/netstandard2.0/_._",
 <<<<<<< HEAD
+<<<<<<< HEAD
         "microsoft.entityframeworkcore.analyzers.7.0.13.nupkg.sha512",
+=======
+        "microsoft.entityframeworkcore.analyzers.7.0.12.nupkg.sha512",
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
         "microsoft.entityframeworkcore.analyzers.7.0.12.nupkg.sha512",
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
@@ -1451,6 +1512,7 @@
         "microsoft.entityframeworkcore.inmemory.nuspec"
       ]
     },
+<<<<<<< HEAD
 <<<<<<< HEAD
     "Microsoft.EntityFrameworkCore.Relational/7.0.13": {
       "sha512": "lIms3oaIW7XiQy3bLUB2+hcSZ4ISmdh3HKKuNSnewS3wurYaopqBEhYaQdhZeW6itl3skWyqybPGGxIlJrKqFA==",
@@ -1480,6 +1542,8 @@
         "microsoft.entityframeworkcore.sqlserver.nuspec"
       ]
     },
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
 =======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
     "Microsoft.Extensions.Caching.Abstractions/7.0.0": {
@@ -1831,6 +1895,7 @@
       ]
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Microsoft.Identity.Client/4.47.2": {
       "sha512": "SPgesZRbXoDxg8Vv7k5Ou0ee7uupVw0E8ZCc4GKw25HANRLz1d5OSr0fvTVQRnEswo5Obk8qD4LOapYB+n5kzQ==",
       "type": "package",
@@ -2012,6 +2077,8 @@
     },
 =======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
     "Microsoft.NETCore.Platforms/1.1.0": {
       "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
@@ -2042,6 +2109,7 @@
         "runtime.json"
       ]
     },
+<<<<<<< HEAD
 <<<<<<< HEAD
     "Microsoft.SqlServer.Server/1.0.0": {
       "sha512": "N4KeF3cpcm1PUHym1RmakkzfkEv3GRMyofVv40uXsQhCQeglr2OHNcUk2WOG51AKpGO8ynGpo9M/kFXSzghwug==",
@@ -2142,6 +2210,8 @@
     },
 =======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
     "System.Diagnostics.Tools/4.3.0": {
       "sha512": "UUvkJfSYJMM6x527dJg2VyWPSRqIVB0Z7dbjHst1zmwTXz5CcXSYJFWRpuigfbO1Lf7yfZiIaEUesfnl/g5EyA==",
       "type": "package",
@@ -2199,6 +2269,7 @@
         "system.diagnostics.tools.nuspec"
       ]
     },
+<<<<<<< HEAD
 <<<<<<< HEAD
     "System.Drawing.Common/6.0.0": {
       "sha512": "NfuoKUiP2nUWwKZN6twGqXioIe1zVD0RIj2t976A+czLHr2nY454RwwXs6JU9Htc6mwqL6Dn/nEL3dpVf2jOhg==",
@@ -2370,6 +2441,8 @@
     },
 =======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
     "System.Runtime/4.3.0": {
       "sha512": "JufQi0vPQ0xGnAczR13AUFglDyVYt4Kqnz1AZaiKZ5+GICq0/1MH/mO/eAJHt/mHW1zjKBJd7kV26SrxddAhiw==",
       "type": "package",
@@ -2463,6 +2536,7 @@
       ]
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
     "System.Runtime.Caching/6.0.0": {
       "sha512": "E0e03kUp5X2k+UAoVl6efmI7uU7JRBWi5EIdlQ7cr0NpBGjHG4fWII35PgsBY9T4fJQ8E4QPsL0rKksU9gcL5A==",
       "type": "package",
@@ -2502,6 +2576,8 @@
     },
 =======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
     "System.Runtime.CompilerServices.Unsafe/6.0.0": {
       "sha512": "/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
       "type": "package",
@@ -2527,6 +2603,7 @@
         "useSharedDesignerContext.txt"
       ]
     },
+<<<<<<< HEAD
 <<<<<<< HEAD
     "System.Security.AccessControl/6.0.0": {
       "sha512": "AUADIc0LIEQe7MzC+I0cl0rAT8RrTAKFHl53yHjEUzNVIaUlhFY11vc2ebiVJzVBuOzun6F7FBA+8KAbGTTedQ==",
@@ -2975,6 +3052,8 @@
     },
 =======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
     "FlickerApp.Core.Application/1.0.0": {
       "type": "project",
       "path": "../FlickerApp.Core.Application/FlickerApp.Core.Application.csproj",
@@ -3005,11 +3084,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Prueba\\FlickerApp\\FlickerApp\\FlickerApp\\FlickerApp.csproj",
       "projectName": "FlickerApp",
       "projectPath": "C:\\Prueba\\FlickerApp\\FlickerApp\\FlickerApp\\FlickerApp.csproj",
       "packagesPath": "C:\\Users\\ZHX\\.nuget\\packages\\",
       "outputPath": "C:\\Prueba\\FlickerApp\\FlickerApp\\FlickerApp\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp\\FlickerApp.csproj",
+      "projectName": "FlickerApp",
+      "projectPath": "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp\\FlickerApp.csproj",
+      "packagesPath": "C:\\Users\\ZHX\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp\\obj\\",
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ZHX\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3027,6 +3114,7 @@
           "targetAlias": "net6.0",
           "projectReferences": {
 <<<<<<< HEAD
+<<<<<<< HEAD
             "C:\\Prueba\\FlickerApp\\FlickerApp\\ClassLibrary\\FlickerApp.Infrastructure.Persistence.csproj": {
               "projectPath": "C:\\Prueba\\FlickerApp\\FlickerApp\\ClassLibrary\\FlickerApp.Infrastructure.Persistence.csproj"
             },
@@ -3036,6 +3124,8 @@
             "C:\\Prueba\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\FlickerApp.Core.Domain.csproj": {
               "projectPath": "C:\\Prueba\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\FlickerApp.Core.Domain.csproj"
 =======
+=======
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
             "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\ClassLibrary\\FlickerApp.Infrastructure.Persistence.csproj": {
               "projectPath": "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\ClassLibrary\\FlickerApp.Infrastructure.Persistence.csproj"
             },
@@ -3044,6 +3134,9 @@
             },
             "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\FlickerApp.Core.Domain.csproj": {
               "projectPath": "C:\\Users\\ZHX\\Desktop\\FlickerApp\\FlickerApp\\FlickerApp.Core.Domain\\FlickerApp.Core.Domain.csproj"
+<<<<<<< HEAD
+>>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
+=======
 >>>>>>> 708e491a411608018b724399fd2bb24f38b2de34
             }
           }
